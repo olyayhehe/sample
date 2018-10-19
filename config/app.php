@@ -91,8 +91,8 @@ return [
     |
     */
 
-    'fallback_locale' => 'en',
-
+    // 'fallback_locale' => 'en',
+    'fallback_locale' => 'zh-CN',
     /*
     |--------------------------------------------------------------------------
     | Encryption Key
